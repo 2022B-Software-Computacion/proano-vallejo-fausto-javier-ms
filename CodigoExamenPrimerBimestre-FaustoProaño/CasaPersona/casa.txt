@@ -1,0 +1,3 @@
+1,Equinoccio N17-44,1200.0,2019,2,false,30000
+2,Isla Santiago y Av.RioCoca,2000.5,2005,4,true,150000
+3,Avenida America,3400.0,1991,1,false,60000
