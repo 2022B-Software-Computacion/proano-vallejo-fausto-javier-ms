@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Outlook</string>
+    <string name="menu_correo">Correo</string>
+    <string name="menu_calendario">Calendario</string>
+    <string name="menu_fuente">Fuente</string>
+    <string name="menu_más">Más</string>
+    <string name="placeHolder_searchView">Busca aqui tu documento</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

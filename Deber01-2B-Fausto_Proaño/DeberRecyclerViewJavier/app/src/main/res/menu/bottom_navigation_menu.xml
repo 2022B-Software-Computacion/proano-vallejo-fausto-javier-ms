@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_correo"
+        android:icon="@drawable/icono_email"
+        android:title="Correo"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_calendario"
+        android:icon="@drawable/icono_calendario"
+        android:title="Calendario"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/menu_fuente"
+        android:icon="@drawable/icono_fuente"
+        android:title="Fuente"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/menu_hmas"
+        android:icon="@drawable/icono_mas"
+        android:title="Más"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
